@@ -49,6 +49,8 @@ There are 2 ways to run the project:
     3. Open the terminal and Navigate to the Project root directory
     4. Run the command ```docker-compose pull && docker-compose up```
     5. Navigate to browser and visit `http://localhost` and this will give the User Interface for VulnerableApp.
+    
+    **Note**: The above steps will run the latest unreleased VulnerableApp version. If you want to run the latest released version, please use docker **latest** tag.
 2. Another way to run the VulnerableApp is as standalone Vulnerable Application is:
     1. Navigate to [Releases Section](https://github.com/SasanLabs/VulnerableApp/releases) in github and download the Jar for the latest released version
     2. Open the terminal and navigate to the project root directory
@@ -88,6 +90,7 @@ In case you are stuck with any of the steps or understanding anything related to
 ### Blogs
 1. [Overview of Owasp-VulnerableApp - Medium article](https://hussaina-begum.medium.com/an-extensible-vulnerable-application-for-testing-the-vulnerability-scanning-tools-cc98f0d94dbc)
 2. [Overview of Owasp-VulnerableApp - Blogspot post](https://hussaina-begum.blogspot.com/2020/10/an-extensible-vulnerable-application.html)
+3. [Introduction to Owasp VulnerableApp by Kenji Nakajima](https://jpn.nec.com/cybersecurity/blog/220520/index.html)
 
 ### Readme in other languages
 
